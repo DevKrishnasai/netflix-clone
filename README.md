@@ -1,4 +1,3 @@
-# bharatIntern-task-3
 # Netflix Web Page
 
 This project is a static web page that resembles the Netflix website. It showcases a grid layout with different sections for popular movies, TV shows, originals, and more.
